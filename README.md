@@ -6,7 +6,7 @@ Repeatedly output a line with all specified STRING(s), or 'n'.
 
 ## Usage
 ```bash
-no [expletive]
+no [STRING]
 OR
 no [options]
 ```
