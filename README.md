@@ -11,6 +11,11 @@ A rust implementation of the unix `no` command which is the counterpart command 
 ## Description
 Repeatedly output a line with all specified STRING(s), or 'n'.
 
+## Installation
+```bash
+cargo install unix-no
+```
+
 ## Usage
 ```bash
 no [STRINGS]
